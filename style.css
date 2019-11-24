@@ -1,0 +1,45 @@
+.jumbotron {
+	background-color: #926229;
+}
+
+.jumbotron h1 {
+	color:white;
+}
+
+p, h1, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+.panel-primary .panel-heading {
+    color: #fff;
+   
+	border-color: #926229;
+	background-color: #926229;
+}
+
+.panel-primary {
+	border-color: #337ab7;
+	border-color : #926229;
+}
+
+.panel-primary .panel-heading h3{
+    color: #fff;
+    /* background-color: #337ab7; */
+
+}
+
+.col-sm-12 .Author{
+	font-size: 11px;
+	text-align: center;
+	background-color: white;
+	color: black;
+}
+
+
+.col-sm-12 .EntreContato{
+	font-size: 14px;
+	text-align: center;
+	background-color: whitesmoke;
+	color: black;
+}
+
